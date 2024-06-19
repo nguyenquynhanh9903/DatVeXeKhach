@@ -5,9 +5,9 @@ const Footer = () => {
         <View style={styles.container}>
             <Text style={styles.title}>TRUNG TÂM TỔNG ĐÀI & CSKH</Text>
             <Text style={styles.phone}>1900 2548</Text>
-            <Text style={styles.company}>CÔNG TY CỔ PHẦN XE KHÁCH ÁNH DƯƠNG</Text>
+            <Text style={styles.company}>CÔNG TY CỔ PHẦN XE KHÁCH MAI ANH</Text>
             <Text style={styles.address}>Địa chỉ: 97 Võ Văn Tần, phường 6, quận 3, Thành phố Hồ Chí Minh</Text>
-            <Text style={styles.email}>Email: hotro@anhduong.vn</Text>
+            <Text style={styles.email}>Email: hotro@maianhbus.vn</Text>
             <Text style={styles.fax}>Điện thoại: 02845134513</Text>
             <Text style={styles.fax}>Fax: 02845154515</Text>
 

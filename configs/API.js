@@ -1,7 +1,7 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import axios from "axios";
 
-export const BASE_URL = 'http://172.20.10.4:8000/';
+export const BASE_URL = 'http://192.168.1.111:8000/';
 
 export const endpoints = {
     'nhanvien': '/NhanVien/',
@@ -11,6 +11,8 @@ export const endpoints = {
     'xe': '/Xe/',
     've': '/VeXe/',
     'le': '/le/',
+    'momo': '/payment/',
+    'zalo':'/zalo/payment/',
     'chucvu': '/loainguoidung/',
     'chitietve': '/chitietve/',
     'them_NV': '/NhanVien/Them_NV/',
